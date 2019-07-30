@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HinhTron", "HinhTron\HinhTr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicC", "BasicC\BasicC.csproj", "{99A11550-4545-452A-9696-5329A6C1BDA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{DDEC8C5D-63CC-4B6C-BCDE-AA5FC50427A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example1", "Example1\Example1.csproj", "{DDEC8C5D-63CC-4B6C-BCDE-AA5FC50427A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2", "Example2\Example2.csproj", "{8C54691C-36F2-4546-B0E8-9A454BAD854D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example2", "Example2\Example2.csproj", "{8C54691C-36F2-4546-B0E8-9A454BAD854D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhepCong", "PhepCong\PhepCong.csproj", "{C5B0232B-5C1B-446C-BEA6-3EAEB48048F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{8C54691C-36F2-4546-B0E8-9A454BAD854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C54691C-36F2-4546-B0E8-9A454BAD854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C54691C-36F2-4546-B0E8-9A454BAD854D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B0232B-5C1B-446C-BEA6-3EAEB48048F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B0232B-5C1B-446C-BEA6-3EAEB48048F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B0232B-5C1B-446C-BEA6-3EAEB48048F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B0232B-5C1B-446C-BEA6-3EAEB48048F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

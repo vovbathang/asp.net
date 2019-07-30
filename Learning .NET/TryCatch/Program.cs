@@ -14,6 +14,9 @@ namespace TryCatch
             A = Console.ReadLine();
             kta = float.TryParse(A, out a);
             phepchia(a);
+
+            Console.WriteLine("Tong 2 so: ", PhepCong(7, 9));
+            Console.ReadLine();
         }
 
         public static void phepchia(float n)
@@ -26,10 +29,17 @@ namespace TryCatch
             }
             catch (DivideByZeroException ex)
             {
-            //  Console.WriteLine(ex.Message);
-               throw ex;
+                //  Console.WriteLine(ex.Message);
+                throw ex;
             }
             Console.ReadLine();
+        }
+
+        public static int PhepCong(int d, int e)
+        {
+            int tong;
+            tong = d + e;
+            return tong;
         }
     }
 }
