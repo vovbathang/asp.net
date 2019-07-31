@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Data;
 
 namespace PhepCong
 {
@@ -11,7 +13,7 @@ namespace PhepCong
             Console.WriteLine("Tong 2 so: {0}", ketqua);
             Console.ReadLine();
 
-            PhepTru(2,1);
+            PhepTru(2, 1);
             Console.ReadLine();
         }
 
