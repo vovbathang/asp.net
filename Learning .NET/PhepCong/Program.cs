@@ -15,6 +15,7 @@ namespace PhepCong
 
             PhepTru(2, 1);
             Console.ReadLine();
+
         }
 
         static int PhepCong(int sothu1, int sothu2)
