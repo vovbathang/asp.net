@@ -1,0 +1,11 @@
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\bin\Debug\netcoreapp2.1\ExportWordExcel.deps.json
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\bin\Debug\netcoreapp2.1\ExportWordExcel.runtimeconfig.json
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\bin\Debug\netcoreapp2.1\ExportWordExcel.runtimeconfig.dev.json
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\bin\Debug\netcoreapp2.1\ExportWordExcel.dll
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.csprojAssemblyReference.cache
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.RazorAssemblyInfo.cache
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.RazorAssemblyInfo.cs
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.AssemblyInfoInputs.cache
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.AssemblyInfo.cs
+D:\ASP.NET\ExportWordExcel\ExportWordExcel\obj\Debug\netcoreapp2.1\ExportWordExcel.RazorTargetAssemblyInfo.cache
